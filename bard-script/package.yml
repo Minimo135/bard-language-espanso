@@ -1,8 +1,7 @@
 matches:
   - trigger: ":zero:"
     replace: "\uE000"
-    label: |
-      <p style="font-family: Bard">&#xE000</p>
+    label: <p style="font-family:'Bard'">&#xE000</p>
   - trigger: ":one:"
     replace: "\uE001"
   - trigger: ":two:"
