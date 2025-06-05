@@ -1,7 +1,6 @@
 matches:
   - trigger: ":zero:"
     replace: "\uE000"
-    label: <p style="font-family:'Bard'">&#xE000</p>
   - trigger: ":one:"
     replace: "\uE001"
   - trigger: ":two:"
@@ -108,3 +107,7 @@ matches:
     replace: "\uE034"
   - trigger: ":windmill:"
     replace: "\uE035"
+  - trigger: ":comma:"
+    replace: "\uE036"
+  - trigger: ":gap:"
+    replace: "\uE037"
