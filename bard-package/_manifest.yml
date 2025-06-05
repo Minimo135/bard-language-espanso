@@ -1,0 +1,7 @@
+name: "bard-script"
+title: "Bard"
+description: Package for the Bard language from CoS
+homepage: ""
+version: 0.1.0
+author: Massimo Pizzi
+tags: ["cos", "bard", "conlang"]
