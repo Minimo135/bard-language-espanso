@@ -1,6 +1,9 @@
 matches:
   - trigger: ":zero:"
     replace: "\uE000"
+    label: |
+      <p><span
+      style="font-family: Bard;">even richer</span>!</p>
   - trigger: ":one:"
     replace: "\uE001"
   - trigger: ":two:"
